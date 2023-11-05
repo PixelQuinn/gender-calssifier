@@ -1,4 +1,4 @@
-# gender-calssifier
+# gender-classifier
 Basic gender classify used to learn data science.
 The program is simple. It uses the measurements of height, weight, and shoesize to attempt to predict the gender of the user.
 The first function is tree, organizing the data into a decision tree until reaching its answer.
